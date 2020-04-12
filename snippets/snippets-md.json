@@ -7,6 +7,26 @@
             "",
             "```"
         ],
-        "description": "Shell Codeblock.",
+        "description": "Shell Codeblock."
+    },
+    "Codeblock JSON":{
+        "scope": "markdown",
+        "prefix": "!md-json",
+        "body": [
+            "```json",
+            "",
+            "```"
+        ],
+        "description": "JSON Codeblock."
+    },
+    "Codeblock Python":{
+        "scope": "markdown",
+        "prefix": "!md-python",
+        "body": [
+            "```python",
+            "",
+            "```"
+        ],
+        "description": "Python Codeblock."
     }
 }

@@ -8,5 +8,25 @@
             "   ${1:CODE}"
         ],
         "description": "rst Codeblock."
-    }
+    },
+    "Codeblock JSON":{
+        "scope": "restructuredtext",
+        "prefix": "!rst-json",
+        "body": [
+            ".. code-block:: json",
+            "",
+            "   ${1:CODE}"
+        ],
+        "description": "JSON Codeblock."
+    },
+    "Codeblock Python":{
+        "scope": "restructuredtext",
+        "prefix": "!rst-python",
+        "body": [
+            ".. code-block:: python",
+            "",
+            "   ${1:CODE}"
+        ],
+        "description": "Python Codeblock."
+    },
 }
