@@ -1,0 +1,12 @@
+{
+    "Codeblock Shell":{
+        "scope": "markdown",
+        "prefix": "!md-shell",
+        "body": [
+            "```shell",
+            "",
+            "```"
+        ],
+        "description": "Shell Codeblock.",
+    }
+}

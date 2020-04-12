@@ -1,0 +1,12 @@
+{
+    "Codeblock Shell":{
+        "scope": "restructuredtext",
+        "prefix": "!rst-shell",
+        "body": [
+            ".. code-block:: shell",
+            "",
+            "   ${1:CODE}"
+        ],
+        "description": "rst Codeblock."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "ocld-snippets",
+    "displayName": "ocld-snippets",
+    "description": "ocular-d snippets for (technical) writing",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "markdown",
+                "path": "./snippets/snippets-md.json"
+            },
+            {
+                "language": "restructuredtext",
+                "path": "./snippets/snippets-rst.json"
+            }
+        ]
+    }
+}
