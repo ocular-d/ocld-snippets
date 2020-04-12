@@ -29,4 +29,14 @@
         ],
         "description": "Python Codeblock."
     },
+    "Codeblock Seealso":{
+        "scope": "restructuredtext",
+        "prefix": "!rst-seealso",
+        "body": [
+            ".. seealso::",
+            "",
+            "   ${1:CODE}"
+        ],
+        "description": "Seealso block."
+    },
 }
