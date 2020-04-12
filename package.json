@@ -17,7 +17,7 @@
             },
             {
                 "language": "restructuredtext",
-                "path": "./snippets/snippets-rst.json"
+                "path": "./snippets/snippets-sphinx.json"
             }
         ]
     }
