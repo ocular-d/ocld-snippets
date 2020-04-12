@@ -28,5 +28,22 @@
             "```"
         ],
         "description": "Python Codeblock."
-    }
+    },
+    "List":{
+        "scope": "markdown",
+        "prefix": "!md-list",
+        "body": [
+            "- ${1:Item-1}",
+            "- ${2:Item-2}"
+        ],
+        "description": "Insert List"
+    },
+    "Link":{
+        "scope": "markdown",
+        "prefix": "!md-link",
+        "body": [
+            "[${1:Link-Name}(${2:URL}]"
+        ],
+        "description": "Insert Link"
+    },
 }
