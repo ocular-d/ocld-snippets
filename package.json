@@ -20,5 +20,12 @@
                 "path": "./snippets/snippets-sphinx.json"
             }
         ]
-    }
+    },
+    "devDependencies": {
+        "vuepress": "^1.4.0"
+    },
+    "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
 }
