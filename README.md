@@ -1,65 +1,45 @@
-# ocld-snippets README
+<!-- PROJECT LOGO -->
 
-This is the README for your extension "ocld-snippets". After writing up a brief description, we recommend including the following sections.
+<br />
+<p align="center">
+  <h1 align="center">ocld-snippets</h1>
 
-## Features
+  <p align="center">
+    VS Code Snippets for (technical) writing
+    <br />
+    <a href="https://github.com/ocular-d/ocld-snippets"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/ocular-d/ocld-snippets/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ocular-d/ocld-snippets/issues">Request Feature</a>
+  </p>
+</p>
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+<!-- TABLE OF CONTENTS -->
 
-For example if there is an image subfolder under your extension project workspace:
+## Table of Contents
 
-\!\[feature X\]\(images/feature-x.png\)
+- [About the Project](#📄-about)
+- [Usage](#🚀-usage)
+- [Contributing](#🤝-contributing)
+- [License](#📝-license)
+- [Credits](#🙏-credits)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## 📄 About
 
-## Requirements
+Markdown snippets for VS Code.
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## 🚀 Usage
 
-## Extension Settings
+TBC
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## 🤝 Contributing
 
-For example:
+We are a community effort, and everybody is most welcome to participate!
 
-This extension contributes the following settings:
+Be it filing bugs, formulating enhancements, creating pull requests, or any other means of contribution, we encourage contributions from everyone.
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+## 📝 License
 
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/ "Link to license") license.
