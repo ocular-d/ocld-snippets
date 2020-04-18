@@ -1,6 +1,7 @@
 {
     "name": "ocld-snippets",
     "displayName": "ocld-snippets",
+    "publisher": "ocld",
     "description": "ocular-d snippets for (technical) writing",
     "version": "0.0.1",
     "engines": {
