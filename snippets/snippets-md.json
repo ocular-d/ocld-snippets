@@ -1,49 +1,77 @@
 {
     "Codeblock Shell":{
         "scope": "markdown",
-        "prefix": "!md-shell",
+        "prefix": "ocld-CodeBlockShell",
         "body": [
             "```shell",
             "",
             "```"
         ],
-        "description": "Shell Codeblock."
+        "description": "Insert Shell Codeblock."
     },
     "Codeblock JSON":{
         "scope": "markdown",
-        "prefix": "!md-json",
+        "prefix": "ocld-CodeBlockJSON",
         "body": [
             "```json",
             "",
             "```"
         ],
-        "description": "JSON Codeblock."
+        "description": "Insert JSON Codeblock."
     },
     "Codeblock Python":{
         "scope": "markdown",
-        "prefix": "!md-python",
+        "prefix": "ocld-CodeBlockPython",
         "body": [
             "```python",
             "",
             "```"
         ],
-        "description": "Python Codeblock."
+        "description": "Insert Python Codeblock."
     },
     "List":{
         "scope": "markdown",
-        "prefix": "!md-list",
+        "prefix": "ocld-List",
         "body": [
             "- ${1:Item-1}",
             "- ${2:Item-2}"
         ],
-        "description": "Insert List"
+        "description": "Insert A List"
     },
     "Link":{
         "scope": "markdown",
-        "prefix": "!md-link",
+        "prefix": "ocld-Link",
         "body": [
             "[${1:Link-Name}(${2:URL}]"
         ],
-        "description": "Insert Link"
+        "description": "Insert A Link"
     },
+    "CheckBox Unchecked": {
+        "prefix": "ocld-Box",
+        "body": [
+            "[ ] $1"
+        ],
+        "description": "Insert An Unchecked Checkbox."
+    },
+    "Inline code": {
+        "prefix": "ocld-InlineCode",
+        "body": [
+            "`${1:YourLineCodeHere}`"
+        ],
+        "description": "Insert An Inline Code."
+    },
+    "Bold": {
+        "prefix": "ocld-Bold",
+        "body": [
+            "**${1:Text}**"
+        ],
+        "description": "Adds A Bold Text."
+    },
+    "Italic": {
+        "prefix": "ocld-Italic",
+        "body": [
+            "*${1:Text}*"
+        ],
+        "description": "Adds An Italic Text."
+    }
 }

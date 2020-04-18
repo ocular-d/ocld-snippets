@@ -2,4 +2,10 @@
 
 ## Code Blocks
 
-:md
+[ ] 
+[ ] 
+
+- Item-1
+- Item-2
+
+`echo "hello world"`
