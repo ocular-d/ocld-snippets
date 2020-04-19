@@ -3,13 +3,18 @@
     "displayName": "ocld-snippets",
     "publisher": "ocld",
     "description": "ocular-d snippets for (technical) writing",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.44.0"
     },
     "categories": [
         "Snippets"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ocular-d/ocld-snippets"
+    },
+    "icon": "icon.png",
     "contributes": {
         "snippets": [
             {

@@ -56,7 +56,7 @@
     "Inline code": {
         "prefix": "ocld-InlineCode",
         "body": [
-            "`${1:YourLineCodeHere}`"
+            "`${1:YourInlineCodeHere}`"
         ],
         "description": "Insert An Inline Code."
     },
@@ -73,5 +73,12 @@
             "*${1:Text}*"
         ],
         "description": "Adds An Italic Text."
+    },
+    "Image": {
+        "prefix": "ocld-Image",
+        "body": [
+            "![${1:Alt-Text}](${2:Path/URL})"
+        ],
+        "description": "Adds An Image."
     }
 }
